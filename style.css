@@ -1,0 +1,14 @@
+/* Your complete CSS from index.html goes here */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:root {
+    --primary: #d10000;
+    /* ... rest of your CSS variables */
+}
+
+/* ... rest of your 1000+ lines of CSS */
